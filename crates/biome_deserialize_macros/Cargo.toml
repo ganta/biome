@@ -16,7 +16,7 @@ proc-macro = true
 [dependencies]
 biome_string_case = { workspace = true }
 proc-macro-error  = { version = "1.0.4", default-features = false }
-proc-macro2       = "1.0.63"
+proc-macro2       = "1.0.79"
 quote             = "1.0.14"
 syn               = { version = "1.0.85", features = ["extra-traits"] }
 
